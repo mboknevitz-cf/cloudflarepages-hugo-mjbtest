@@ -1,7 +1,7 @@
 # Template Homepage
 
 This repository contains a Hugo-based documentation site template that's ready to deploy to Cloudflare Pages.
-
+MJB WAS HERE
 ## Quick Start
 
 1. Clone this repository:
